@@ -1,0 +1,49 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                }
+            ],
+            "className": "TlvParser",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "inputText",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "onPushButtonClicked",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "TlvParser",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "text",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "updateTextField",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "TlvParser.h",
+    "outputRevision": 68
+}

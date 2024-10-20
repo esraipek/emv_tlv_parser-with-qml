@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appqml_deneme_FILE /home/esraipek/qt_proje_calisma/qml_deneme/build/Desktop-Debug/appqml_deneme)
+set(__QT_DEPLOY_TARGET_appqml_deneme_TYPE EXECUTABLE)

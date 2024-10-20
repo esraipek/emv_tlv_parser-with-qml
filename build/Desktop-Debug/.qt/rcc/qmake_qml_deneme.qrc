@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/qml_deneme">
+    <file alias="qmldir">/home/esraipek/qt_proje_calisma/qml_deneme/build/Desktop-Debug/qml_deneme/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,14 @@
+-rootPath
+/home/esraipek/qt_proje_calisma/qml_deneme
+-cmake-output
+-output-file
+/home/esraipek/qt_proje_calisma/qml_deneme/build/Desktop-Debug/.qt/qml_imports/appqml_deneme_conf.cmake
+-importPath
+/home/esraipek/qt_proje_calisma/qml_deneme/build/Desktop-Debug/qml_deneme
+-importPath
+/home/esraipek/qt_proje_calisma/qml_deneme/build/Desktop-Debug
+-importPath
+/home/esraipek/Qt/6.7.2/gcc_64/./qml
+-qrcFiles
+/home/esraipek/qt_proje_calisma/qml_deneme/build/Desktop-Debug/.qt/rcc/qmake_qml_deneme.qrc
+/home/esraipek/qt_proje_calisma/qml_deneme/build/Desktop-Debug/.qt/rcc/appqml_deneme_raw_qml_0.qrc

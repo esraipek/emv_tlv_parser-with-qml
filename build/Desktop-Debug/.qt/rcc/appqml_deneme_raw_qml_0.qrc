@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/qml_deneme/">
+    <file alias="Main.qml">/home/esraipek/qt_proje_calisma/qml_deneme/Main.qml</file>
+  </qresource>
+</RCC>
+

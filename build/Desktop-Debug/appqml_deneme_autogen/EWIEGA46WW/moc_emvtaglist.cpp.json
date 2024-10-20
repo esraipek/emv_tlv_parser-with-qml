@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "EmvTagList",
+            "object": true,
+            "qualifiedClassName": "EmvTagList",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "emvtaglist.h",
+    "outputRevision": 68
+}

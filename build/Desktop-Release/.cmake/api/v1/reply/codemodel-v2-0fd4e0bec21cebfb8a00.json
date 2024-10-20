@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-11dbec5f7e4dd22077ae.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qml_deneme",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Release-090c75a53b6795e575d7.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Release-b0c3b6dd9c68dc18afa0.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Release-d908ef844eff03ccfd6a.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Release-109e7893e2891a2a8660.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml_deneme::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml_deneme-Release-9e41250dc9f75ba186ab.json",
+					"name" : "appqml_deneme",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml_deneme_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml_deneme_autogen-Release-61cb11d10944ff4ed0b9.json",
+					"name" : "appqml_deneme_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml_deneme_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml_deneme_autogen_timestamp_deps-Release-3ae4284650d494770428.json",
+					"name" : "appqml_deneme_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml_deneme_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml_deneme_qmlimportscan-Release-5d05db253fd73becaa64.json",
+					"name" : "appqml_deneme_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml_deneme_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml_deneme_qmllint-Release-90b308427729b2ca6b5c.json",
+					"name" : "appqml_deneme_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml_deneme_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml_deneme_qmllint_json-Release-44af136f5d44ac745640.json",
+					"name" : "appqml_deneme_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml_deneme_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml_deneme_qmllint_module-Release-2211d6e94e10c54fa70a.json",
+					"name" : "appqml_deneme_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml_deneme_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml_deneme_qmltyperegistration-Release-7f33877cecf4721f9f11.json",
+					"name" : "appqml_deneme_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqml_deneme_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqml_deneme_tooling-Release-c93ff8e02dbda6e8445e.json",
+					"name" : "appqml_deneme_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/esraipek/qt_proje_calisma/qml_deneme/build/Desktop-Release",
+		"source" : "/home/esraipek/qt_proje_calisma/qml_deneme"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

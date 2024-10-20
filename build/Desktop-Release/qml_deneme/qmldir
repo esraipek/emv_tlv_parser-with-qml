@@ -1,0 +1,5 @@
+module qml_deneme
+typeinfo appqml_deneme.qmltypes
+prefer :/qt/qml/qml_deneme/
+Main 1.0 Main.qml
+

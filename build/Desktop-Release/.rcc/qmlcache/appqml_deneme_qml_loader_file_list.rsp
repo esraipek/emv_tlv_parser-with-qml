@@ -1,0 +1,5 @@
+--resource
+/home/esraipek/qt_proje_calisma/qml_deneme/build/Desktop-Release/.qt/rcc/qmake_qml_deneme.qrc
+--resource
+/home/esraipek/qt_proje_calisma/qml_deneme/build/Desktop-Release/.qt/rcc/appqml_deneme_raw_qml_0.qrc
+/qt/qml/qml_deneme/Main.qml

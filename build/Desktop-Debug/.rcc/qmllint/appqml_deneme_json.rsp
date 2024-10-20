@@ -1,0 +1,12 @@
+--bare
+-I
+/home/esraipek/qt_proje_calisma/qml_deneme/build/Desktop-Debug
+-I
+/home/esraipek/Qt/6.7.2/gcc_64/./qml
+--resource
+/home/esraipek/qt_proje_calisma/qml_deneme/build/Desktop-Debug/.qt/rcc/qmake_qml_deneme.qrc
+--resource
+/home/esraipek/qt_proje_calisma/qml_deneme/build/Desktop-Debug/.qt/rcc/appqml_deneme_raw_qml_0.qrc
+/home/esraipek/qt_proje_calisma/qml_deneme/Main.qml
+--json
+/home/esraipek/qt_proje_calisma/qml_deneme/build/Desktop-Debug/appqml_deneme_qmllint.json
